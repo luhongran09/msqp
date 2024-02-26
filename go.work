@@ -1,0 +1,11 @@
+use (
+	common
+connector
+core
+framework
+game
+hall
+user
+gate
+)
+go 1.21.0
